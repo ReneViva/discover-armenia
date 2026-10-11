@@ -1,6 +1,6 @@
 # Prepared shared participant gallery backend
 
-This code has **not been deployed**. Keep the frontend's `apiBase` set to `null` until a real public backend is deployed and verified. Browser storage holds only a participant's private removal receipt; the shared gallery itself is stored in R2.
+The shared gallery API is **deployed and verified** at https://discover-armenia-selfie-gallery.woollytrail2.chatgpt.site. The frontend's `apiBase` points to that real HTTPS origin. A consenting test upload, public listing, image read, private-code deletion, and deletion verification passed against hosted R2; the test image was removed. Browser storage holds only a participant's private removal receipt; the shared gallery itself is stored in R2.
 
 `participants-worker.js` is a dependency-free Worker ES module with `export default { fetch(request, env, ctx) }`. It also exports `handleParticipantsRequest`, which returns `null` for unrelated paths so it can be integrated into an asset-preserving Worker later. Its fallback uses `env.ASSETS.fetch` only when that binding exists; otherwise it returns 404. It does not assume Sites supplies static assets to a Worker automatically.
 
