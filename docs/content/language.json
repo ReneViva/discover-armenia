@@ -1,0 +1,191 @@
+[
+  {
+    "id": "barev",
+    "armenian": "Բարև",
+    "english": "Hello",
+    "transliteration": "Barev",
+    "pronunciation": "bah-REV",
+    "category": "Greetings",
+    "note": "A friendly, informal greeting. These English pronunciation guides are approximate; CAPITALS show the stressed syllable.",
+    "sources": [{"label": "Peace Corps: Armenian greetings, lesson 6", "url": "https://files.peacecorps.gov/multimedia/audio/languagelessons/armenia/AR_Armenian_Language_Lessons.pdf"}]
+  },
+  {
+    "id": "barev-dzez",
+    "armenian": "Բարև ձեզ",
+    "english": "Hello — polite or plural",
+    "transliteration": "Barev dzez",
+    "pronunciation": "bah-REV dzez",
+    "category": "Greetings",
+    "note": "Use this when greeting someone politely or greeting several people.",
+    "sources": [{"label": "Peace Corps: Armenian greetings, lesson 6", "url": "https://files.peacecorps.gov/multimedia/audio/languagelessons/armenia/AR_Armenian_Language_Lessons.pdf"}]
+  },
+  {
+    "id": "bari-luys",
+    "armenian": "Բարի լույս",
+    "english": "Good morning",
+    "transliteration": "Bari luys",
+    "pronunciation": "bah-REE looys",
+    "category": "Greetings",
+    "sources": [{"label": "Peace Corps: Armenian greetings, lesson 6", "url": "https://files.peacecorps.gov/multimedia/audio/languagelessons/armenia/AR_Armenian_Language_Lessons.pdf"}]
+  },
+  {
+    "id": "bari-yereko",
+    "armenian": "Բարի երեկո",
+    "english": "Good evening",
+    "transliteration": "Bari yereko",
+    "pronunciation": "bah-REE yeh-reh-KOH",
+    "category": "Greetings",
+    "sources": [{"label": "Peace Corps: Armenian greetings, lesson 6", "url": "https://files.peacecorps.gov/multimedia/audio/languagelessons/armenia/AR_Armenian_Language_Lessons.pdf"}]
+  },
+  {
+    "id": "bari-galust",
+    "armenian": "Բարի գալուստ",
+    "english": "Welcome",
+    "transliteration": "Bari galust",
+    "pronunciation": "bah-REE gah-LOOST",
+    "category": "Greetings",
+    "sources": [{"label": "Peace Corps: Welcome to Armenia, lesson 1", "url": "https://files.peacecorps.gov/multimedia/audio/languagelessons/armenia/AR_Armenian_Language_Lessons.pdf"}]
+  },
+  {
+    "id": "inchpes-es",
+    "armenian": "Ինչպե՞ս ես",
+    "english": "How are you? — informal",
+    "transliteration": "Inchpes es",
+    "pronunciation": "inch-PES es",
+    "category": "Greetings",
+    "note": "For one person you know. The polite or plural form is Ինչպե՞ս եք — Inchpes ek.",
+    "sources": [{"label": "Peace Corps: Armenian greetings, lesson 6", "url": "https://files.peacecorps.gov/multimedia/audio/languagelessons/armenia/AR_Armenian_Language_Lessons.pdf"}]
+  },
+  {
+    "id": "shat-hacheli-e",
+    "armenian": "Շատ հաճելի է",
+    "english": "Nice to meet you",
+    "transliteration": "Shat hacheli e",
+    "pronunciation": "shaht hah-cheh-LEE eh",
+    "category": "Greetings",
+    "sources": [{"label": "Peace Corps: Small talk, lesson 12", "url": "https://files.peacecorps.gov/multimedia/audio/languagelessons/armenia/AR_Armenian_Language_Lessons.pdf"}]
+  },
+  {
+    "id": "tstesutyun",
+    "armenian": "Ցտեսություն",
+    "english": "Goodbye",
+    "transliteration": "Tstesutyun",
+    "pronunciation": "tsuh-teh-soo-TYOON",
+    "category": "Greetings",
+    "note": "Start with a light ts sound, as at the end of cats.",
+    "sources": [{"label": "Peace Corps: Saying goodbye, lesson 7", "url": "https://files.peacecorps.gov/multimedia/audio/languagelessons/armenia/AR_Armenian_Language_Lessons.pdf"}, {"label": "Omniglot: Eastern Armenian phrases", "url": "https://omniglot.com/language/phrases/armenian.php"}]
+  },
+  {
+    "id": "shnorhakalutyun",
+    "armenian": "Շնորհակալություն",
+    "english": "Thank you",
+    "transliteration": "Shnorhakalutyun",
+    "pronunciation": "shnor-ha-ka-loo-TYOON",
+    "category": "Everyday",
+    "note": "Try it slowly, one syllable at a time.",
+    "sources": [{"label": "Peace Corps: Basic questions and answers, lesson 8", "url": "https://files.peacecorps.gov/multimedia/audio/languagelessons/armenia/AR_Armenian_Language_Lessons.pdf"}]
+  },
+  {
+    "id": "mersi",
+    "armenian": "Մերսի",
+    "english": "Thank you — casual",
+    "transliteration": "Mersi",
+    "pronunciation": "mer-SEE",
+    "category": "Everyday",
+    "note": "An everyday loanword from French merci. Շնորհակալություն is another way to say thank you.",
+    "sources": [{"label": "ISEC: Practical guide for incoming students", "url": "https://isec.am/images/erasmus_plyus_pastatxter/Practical_Guidebook_for_Incoming_Students.pdf"}, {"label": "ArmDict: Mersi, Dictionary of Foreign Words", "url": "https://www.armdict.com/dictionary/foreign-languages/%D5%84%D4%B5%D5%90%D5%8D%D4%BB?lang=am"}]
+  },
+  {
+    "id": "ayo",
+    "armenian": "Այո",
+    "english": "Yes",
+    "transliteration": "Ayo",
+    "pronunciation": "ah-YOH",
+    "category": "Everyday",
+    "sources": [{"label": "Peace Corps: Vocabulary 2, lesson 3", "url": "https://files.peacecorps.gov/multimedia/audio/languagelessons/armenia/AR_Armenian_Language_Lessons.pdf"}]
+  },
+  {
+    "id": "voch",
+    "armenian": "Ոչ",
+    "english": "No",
+    "transliteration": "Voch",
+    "pronunciation": "VOHCH",
+    "category": "Everyday",
+    "sources": [{"label": "Peace Corps: Vocabulary 2, lesson 3", "url": "https://files.peacecorps.gov/multimedia/audio/languagelessons/armenia/AR_Armenian_Language_Lessons.pdf"}]
+  },
+  {
+    "id": "khndrum-em",
+    "armenian": "Խնդրում եմ",
+    "english": "Please",
+    "transliteration": "Khndrum em",
+    "pronunciation": "khuhn-DROOM em",
+    "category": "Everyday",
+    "note": "The kh sound is like the ch in Scottish loch.",
+    "sources": [{"label": "Peace Corps: Please speak slowly, lesson 8", "url": "https://files.peacecorps.gov/multimedia/audio/languagelessons/armenia/AR_Armenian_Language_Lessons.pdf"}]
+  },
+  {
+    "id": "shat-lav",
+    "armenian": "Շատ լավ",
+    "english": "Very good",
+    "transliteration": "Shat lav",
+    "pronunciation": "shaht LAHV",
+    "category": "Everyday",
+    "sources": [{"label": "Peace Corps: Good and very, lessons 3–4", "url": "https://files.peacecorps.gov/multimedia/audio/languagelessons/armenia/AR_Armenian_Language_Lessons.pdf"}]
+  },
+  {
+    "id": "jur",
+    "armenian": "Ջուր",
+    "english": "Water",
+    "transliteration": "Jur",
+    "pronunciation": "JOOR",
+    "category": "At the table",
+    "sources": [{"label": "Peace Corps: Food and drink vocabulary, lesson 4", "url": "https://files.peacecorps.gov/multimedia/audio/languagelessons/armenia/AR_Armenian_Language_Lessons.pdf"}]
+  },
+  {
+    "id": "hats",
+    "armenian": "Հաց",
+    "english": "Bread",
+    "transliteration": "Hats",
+    "pronunciation": "HAHTS",
+    "category": "At the table",
+    "sources": [{"label": "Peace Corps: Food and drink vocabulary, lesson 4", "url": "https://files.peacecorps.gov/multimedia/audio/languagelessons/armenia/AR_Armenian_Language_Lessons.pdf"}]
+  },
+  {
+    "id": "surch",
+    "armenian": "Սուրճ",
+    "english": "Coffee",
+    "transliteration": "Surch",
+    "pronunciation": "SOORCH",
+    "category": "At the table",
+    "sources": [{"label": "Peace Corps: Food and drink vocabulary, lesson 4", "url": "https://files.peacecorps.gov/multimedia/audio/languagelessons/armenia/AR_Armenian_Language_Lessons.pdf"}]
+  },
+  {
+    "id": "hamov-e",
+    "armenian": "Համով է",
+    "english": "It is delicious",
+    "transliteration": "Hamov e",
+    "pronunciation": "hah-MOHV eh",
+    "category": "At the table",
+    "sources": [{"label": "Peace Corps: Eating with an Armenian family, lesson 9", "url": "https://files.peacecorps.gov/multimedia/audio/languagelessons/armenia/AR_Armenian_Language_Lessons.pdf"}]
+  },
+  {
+    "id": "kenats",
+    "armenian": "Կենաց",
+    "english": "Cheers!",
+    "transliteration": "Kenats",
+    "pronunciation": "keh-NAHTS",
+    "category": "At the table",
+    "note": "A toast shared around the table.",
+    "sources": [{"label": "Smithsonian Folklife Festival 2018: Armenia, Rules of Feasting", "url": "https://folklife-media.si.edu/docs/festival/2018/SFF18-Festival-Guide.pdf"}, {"label": "ArmDict: Toast", "url": "https://www.armdict.com/dictionary/english-armenian/toast"}]
+  },
+  {
+    "id": "bari-akhorzhak",
+    "armenian": "Բարի ախորժակ",
+    "english": "Enjoy your meal",
+    "transliteration": "Bari akhorzhak",
+    "pronunciation": "bah-REE ah-khor-ZHAHK",
+    "category": "At the table",
+    "note": "Like bon appétit. Say zh like the s in pleasure.",
+    "sources": [{"label": "Omniglot: Eastern Armenian phrases", "url": "https://omniglot.com/language/phrases/armenian.php"}]
+  }
+]

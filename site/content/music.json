@@ -1,0 +1,169 @@
+[
+  {
+    "id": "dle-yaman",
+    "title": "Dle Yaman",
+    "artist": "Nune Yesayan · traditional song, live performance",
+    "genre": "Traditional / Folk",
+    "style": "Traditional vocal repertoire · modern concert interpretation",
+    "description": "A lyrical, expressive song from Armenian traditional repertoire, also known through Komitas’s arrangement. This recording is Nune Yesayan’s live interpretation; it is one performance of a song with many versions.",
+    "fact": "Yesayan also released the song on her Nune (Live) album. The official release credits its music and lyrics as traditional.",
+    "image": "https://i.ytimg.com/vi/KiwSCnA02yQ/hqdefault.jpg",
+    "imageCredit": "YouTube preview from Nune Yesayan’s official artist channel; recording stays on YouTube.",
+    "video": {"id": "KiwSCnA02yQ", "title": "Nune Yesayan — Dle Yaman (Live)", "url": "https://www.youtube.com/watch?v=KiwSCnA02yQ"},
+    "sources": [
+      {"label": "Nune Yesayan: official live performance", "url": "https://www.youtube.com/watch?v=KiwSCnA02yQ"},
+      {"label": "Official album recording and traditional credits", "url": "https://www.youtube.com/watch?v=hNbPkB8lgpY"},
+      {"label": "Komitas: catalogue of arrangements", "url": "https://www.komitas.am/eng/list_works.htm"}
+    ]
+  },
+  {
+    "id": "kele-kele",
+    "title": "Kele Kele / Qele, Qele (Komitas)",
+    "artist": "Nemra · live arrangement of Komitas’s song",
+    "genre": "Traditional / Folk",
+    "style": "Folk-derived song · contemporary live arrangement",
+    "description": "Komitas’s Kele Kele is a lyrical song drawn from folk material, full of affection and contrasting musical moods. Nemra brings it into a modern live setting. This is different from Sirusho’s Eurovision pop song with a similar title.",
+    "fact": "Nemra formed in Yerevan in 2012. Alongside its original rock songs, the band performs new interpretations of Armenian folk repertoire.",
+    "image": "https://i.ytimg.com/vi/9_j2A03P9Hc/hqdefault.jpg",
+    "imageCredit": "YouTube preview from Nemra’s official artist channel; recording stays on YouTube.",
+    "video": {"id": "9_j2A03P9Hc", "title": "Nemra — Qele, Qele (Live at Meeting Point)", "url": "https://www.youtube.com/watch?v=9_j2A03P9Hc"},
+    "sources": [
+      {"label": "Komitas: Kele-Kele and its folk-song treatment", "url": "https://www.komitas.am/eng/solo.htm"},
+      {"label": "Nemra: official performance and song credit", "url": "https://www.youtube.com/watch?v=9_j2A03P9Hc"},
+      {"label": "Nemra: official biography", "url": "https://nemraband.com/"}
+    ]
+  },
+  {
+    "id": "sareri-hovin-mernem",
+    "title": "Sareri Hovin Mernem",
+    "artist": "LADANIVA · contemporary performance",
+    "genre": "Traditional / Folk",
+    "style": "Armenian folk repertoire · modern arrangement",
+    "description": "A song of longing whose title is often translated as “I’d Die for the Mountain Wind.” LADANIVA’s version adds the duo’s contemporary sound. Although widely performed as folk repertoire, Zulal’s published song notes credit lyrics to V. Haroutiunian and melody to H. Badalian.",
+    "fact": "LADANIVA pairs Armenian singer Jaklin Baghdasaryan with French multi-instrumentalist Louis Thomas; the duo represented Armenia at Eurovision in 2024.",
+    "image": "https://i.ytimg.com/vi/_9fAh-h6xPg/hqdefault.jpg",
+    "imageCredit": "YouTube preview from LADANIVA’s official release; recording stays on YouTube.",
+    "video": {"id": "_9fAh-h6xPg", "title": "LADANIVA — Sareri Hovin Mernem", "url": "https://www.youtube.com/watch?v=_9fAh-h6xPg"},
+    "sources": [
+      {"label": "LADANIVA: official recording", "url": "https://www.youtube.com/watch?v=_9fAh-h6xPg"},
+      {"label": "Zulal: song notes and composer credits", "url": "https://www.zulal.org/uploads/8/2/9/2/82927610/5._sareri_hoveen.pdf"},
+      {"label": "Eurovision: LADANIVA’s musicians", "url": "https://www.eurovision.com/stories/armenias-dancing-duo-its-la-la-ladaniva/"}
+    ]
+  },
+  {
+    "id": "kochari-music",
+    "title": "Karno Kochari — dance music and performance",
+    "artist": "Karin traditional song and dance ensemble",
+    "genre": "Traditional / Folk",
+    "style": "Traditional dance repertoire · live performance",
+    "description": "Hear the music in its natural setting: a line of dancers moving together. This is Karin’s performance of the Karno Kochari variation, not a claim that every Kochari uses the same tune or steps.",
+    "fact": "Karin describes this variation as reconstructed by Gagik Ginosyan in 2001 from ethnographer Srbuhi Lisitsian’s earlier notation.",
+    "image": "https://i.ytimg.com/vi/lGfojB0TWJ0/hqdefault.jpg",
+    "imageCredit": "YouTube preview of Tigran Madoyan’s Karin performance recording; recording stays on YouTube.",
+    "video": {"id": "lGfojB0TWJ0", "title": "Karin — Karno Kochari", "url": "https://www.youtube.com/watch?v=lGfojB0TWJ0"},
+    "sources": [
+      {"label": "Karin: Karno Kochari documentation", "url": "https://karinfolk.am/dance/karno-qochari/"},
+      {"label": "Karin performance, recorded by Tigran Madoyan", "url": "https://www.youtube.com/watch?v=lGfojB0TWJ0"},
+      {"label": "UNESCO: Kochari’s living tradition", "url": "https://ich.unesco.org/en/RL/kochari-traditional-group-dance-01295"}
+    ]
+  },
+  {
+    "id": "mi-gna",
+    "title": "Mi Gna",
+    "artist": "Super Sako featuring Hayko (Spitakci Hayko)",
+    "genre": "Modern / Popular",
+    "style": "Armenian pop / rabiz crossover · hip-hop",
+    "description": "An Armenian chorus meets English rap and a dance-ready beat. Listen to Super Sako’s original official audio featuring Hayko. The title means “Don’t go.”",
+    "fact": "Super Sako and Hayko also appear with GIMS on a 2018 version of Mi Gna, showing how this Armenian-language chorus travelled into another pop scene.",
+    "image": "https://i.ytimg.com/vi/TPjN6N8TgNI/hqdefault.jpg",
+    "imageCredit": "YouTube preview from Super Sako’s official artist channel; recording stays on YouTube.",
+    "video": {"id": "TPjN6N8TgNI", "title": "Super Sako — Mi Gna featuring Hayko (Official Audio)", "url": "https://www.youtube.com/watch?v=TPjN6N8TgNI"},
+    "sources": [
+      {"label": "Super Sako: original official audio", "url": "https://www.youtube.com/watch?v=TPjN6N8TgNI"},
+      {"label": "GIMS: official release and 2018 credits", "url": "https://www.youtube.com/watch?v=BeqdFg1o910"}
+    ]
+  },
+  {
+    "id": "sirusho-qele-qele",
+    "title": "Qele, Qele",
+    "artist": "Sirusho",
+    "genre": "Modern / Popular",
+    "style": "Pop · Eurovision performance",
+    "description": "Bright, energetic Armenian pop on an international stage. Watch Sirusho perform Armenia’s 2008 Eurovision entry in Belgrade. This modern pop song is distinct from Komitas’s Kele Kele.",
+    "fact": "Sirusho finished fourth in the 2008 Eurovision Grand Final with 199 points. Eurovision’s biography notes that she first performed on stage at seven.",
+    "image": "https://i.ytimg.com/vi/bridO-wD7c8/hqdefault.jpg",
+    "imageCredit": "YouTube preview from the official Eurovision Song Contest channel; performance stays on YouTube.",
+    "video": {"id": "bridO-wD7c8", "title": "Sirusho — Qele, Qele (Armenia), live Eurovision 2008", "url": "https://www.youtube.com/watch?v=bridO-wD7c8"},
+    "sources": [
+      {"label": "Eurovision: Sirusho and verified result", "url": "https://www.eurovision.com/eurovision-song-contest/belgrade-2008/participants/sirusho/"},
+      {"label": "Eurovision: official live performance", "url": "https://www.youtube.com/watch?v=bridO-wD7c8"}
+    ]
+  },
+  {
+    "id": "chop-suey",
+    "title": "Chop Suey!",
+    "artist": "System of a Down",
+    "genre": "Rock / Alternative",
+    "style": "Alternative metal",
+    "description": "Sudden changes, powerful guitars and dramatic vocals make this a striking introduction to the band’s sound. System of a Down is a US band with Armenian-heritage members; this recording is alternative metal, not an Armenian folk song.",
+    "fact": "Vocalist Serj Tankian was born to Armenian parents in Beirut and later grew up in Los Angeles. Heritage and birthplace are different parts of his story.",
+    "image": "https://i.ytimg.com/vi/CSvFpBOe8eY/hqdefault.jpg",
+    "imageCredit": "YouTube preview from System of a Down’s official channel; music video stays on YouTube.",
+    "video": {"id": "CSvFpBOe8eY", "title": "System of a Down — Chop Suey! (Official HD Video)", "url": "https://www.youtube.com/watch?v=CSvFpBOe8eY"},
+    "sources": [
+      {"label": "System of a Down: official music video", "url": "https://www.youtube.com/watch?v=CSvFpBOe8eY"},
+      {"label": "Serj Tankian: memoir and family background", "url": "https://serjtankian.com/pages/down-with-the-system"},
+      {"label": "Serj Tankian’s own account of the band’s ancestral homeland", "url": "https://time.com/3834792/serj-tankian-armenian-genocide/"}
+    ]
+  },
+  {
+    "id": "toxicity",
+    "title": "Toxicity",
+    "artist": "System of a Down",
+    "genre": "Rock / Alternative",
+    "style": "Alternative metal",
+    "description": "A distinctive drum groove, shifting intensity and a huge chorus. The title track comes from the band’s 2001 album Toxicity and belongs to its international rock repertoire.",
+    "fact": "The recording credits bassist Shavo Odadjian among its composers, alongside Daron Malakian; Serj Tankian is credited for lyrics and vocals, and John Dolmayan for drums.",
+    "image": "https://i.ytimg.com/vi/iywaBOMvYLI/hqdefault.jpg",
+    "imageCredit": "YouTube preview from System of a Down’s official channel; music video stays on YouTube.",
+    "video": {"id": "iywaBOMvYLI", "title": "System of a Down — Toxicity (Official HD Video)", "url": "https://www.youtube.com/watch?v=iywaBOMvYLI"},
+    "sources": [
+      {"label": "System of a Down: official music video", "url": "https://www.youtube.com/watch?v=iywaBOMvYLI"},
+      {"label": "Official audio: recording and musician credits", "url": "https://www.youtube.com/watch?v=mUEsqQpact0"},
+      {"label": "System of a Down: album release date", "url": "https://www.systemofadown.com/music"}
+    ]
+  },
+  {
+    "id": "aerials",
+    "title": "Aerials",
+    "artist": "System of a Down",
+    "genre": "Rock / Alternative",
+    "style": "Alternative metal · melodic rock",
+    "description": "A more spacious, melodic route into System of a Down’s music, with an atmospheric opening and a powerful build. Like Chop Suey! and Toxicity, it appears on the band’s Toxicity album.",
+    "fact": "Tankian’s official biography describes him as a singer, composer and visual artist as well as the band’s frontman; his solo work extends into film scores and orchestral music.",
+    "image": "https://i.ytimg.com/vi/L-iepu3EtyE/hqdefault.jpg",
+    "imageCredit": "YouTube preview from System of a Down’s official channel; music video stays on YouTube.",
+    "video": {"id": "L-iepu3EtyE", "title": "System of a Down — Aerials (Official HD Video)", "url": "https://www.youtube.com/watch?v=L-iepu3EtyE"},
+    "sources": [
+      {"label": "System of a Down: official music video", "url": "https://www.youtube.com/watch?v=L-iepu3EtyE"},
+      {"label": "Serj Tankian: official biography", "url": "https://serjtankian.com/pages/about"},
+      {"label": "System of a Down: official discography", "url": "https://www.systemofadown.com/music"}
+    ]
+  },
+  {
+    "id": "nemra-nare",
+    "title": "Nare",
+    "artist": "Nemra",
+    "genre": "Rock / Alternative",
+    "style": "Folk rock · alternative rock arrangement",
+    "description": "An Armenian folk song reimagined by a contemporary Yerevan rock band. Nare combines traditional repertoire with Nemra’s modern band sound; the linked player is the band’s official video.",
+    "fact": "Nemra cites System of a Down as an inspiration. In 2024 it collaborated with Serj Tankian on I’m Afraid of Stars.",
+    "image": "https://i.ytimg.com/vi/JYzBCNoXqkU/hqdefault.jpg",
+    "imageCredit": "YouTube preview from Nemra’s official artist channel; music video stays on YouTube.",
+    "video": {"id": "JYzBCNoXqkU", "title": "NEMRA — Nare / Նարե (Official Video)", "url": "https://www.youtube.com/watch?v=JYzBCNoXqkU"},
+    "sources": [
+      {"label": "Nemra: official video", "url": "https://www.youtube.com/watch?v=JYzBCNoXqkU"},
+      {"label": "Nemra: official biography and collaboration", "url": "https://nemraband.com/"}
+    ]
+  }
+]

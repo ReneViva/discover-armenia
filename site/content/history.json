@@ -1,0 +1,291 @@
+[
+  {
+    "id": "areni",
+    "title": "A winery inside a cave",
+    "era": "Ancient discoveries",
+    "year": "Around 4100 BCE",
+    "summary": "Grape remains, a pressing area and a fermentation vessel tell a 6,000-year-old story at Areni-1.",
+    "story": "Imagine finding the tools of a winemaker deep inside a cave. At Areni-1 in southern Armenia, an international archaeological team uncovered a grape-pressing installation, a large vessel, grape seeds and other remains. Scientific analysis supported the interpretation of wine production, dated to roughly 4100 BCE. Announced in 2011, it is one of the oldest known winery installations. The discovery reveals sophisticated ancient practices; it does not prove that all wine originated in Armenia. Today, Vayots Dzor is still closely associated with grape growing and winemaking.",
+    "fact": "The evidence includes equipment and grape remains, rather than just a story about ancient wine.",
+    "image": "",
+    "imageAlt": "Areni-1 archaeological winery discovery",
+    "imageCredit": {
+      "label": "",
+      "url": "",
+      "license": ""
+    },
+    "sources": [
+      {
+        "label": "UCLA research announcement via EurekAlert",
+        "url": "https://www.eurekalert.org/news-releases/471487"
+      }
+    ]
+  },
+  {
+    "id": "urartu",
+    "title": "Ancient Armenia and Urartu",
+    "era": "The ancient highlands",
+    "year": "9th–6th centuries BCE",
+    "summary": "Fortresses, bronze craftsmanship and inscriptions reveal a powerful kingdom in the Armenian Highlands.",
+    "story": "Long before the modern Republic of Armenia, the Armenian Highlands were home to many communities and kingdoms. Urartu flourished in the first millennium BCE, with its centre around Lake Van, now in Turkey. Its rulers built fortified administrative settlements, developed irrigation and produced distinctive metalwork. Their territory included parts of present-day Armenia, where excavations reveal buildings and inscriptions. Urartu is an important chapter in the region's history, but its language and political identity should not simply be treated as identical to those of later Armenian kingdoms.",
+    "fact": "Urartian craftspeople made elaborate bronze belts, helmets, shields and vessels.",
+    "image": "",
+    "imageAlt": "Ancient Urartu and the Armenian Highlands",
+    "imageCredit": {
+      "label": "",
+      "url": "",
+      "license": ""
+    },
+    "sources": [
+      {
+        "label": "The Metropolitan Museum of Art: Urartu",
+        "url": "https://www.metmuseum.org/ko/essays/urartu"
+      }
+    ]
+  },
+  {
+    "id": "erebuni",
+    "title": "Erebuni: a date written in stone",
+    "era": "Yerevan's ancient roots",
+    "year": "782 BCE",
+    "summary": "King Argishti I founded Erebuni fortress on a hill within today's Yerevan.",
+    "story": "Yerevan's ancient story has a remarkable piece of evidence: a royal cuneiform inscription. It records the foundation of Erebuni by the Urartian king Argishti I in 782 BCE. The fortress stood on Arin Berd hill, in the southeastern part of the modern capital. It served the kingdom's military and administrative needs. The archaeological site and its museum connect visitors with a city landscape more than 2,800 years old. The inscription anchors the fortress's date; it is stronger evidence than a legendary founding story.",
+    "fact": "You can explore Erebuni without leaving the modern city of Yerevan.",
+    "image": "",
+    "imageAlt": "Erebuni fortress and Yerevan's ancient roots",
+    "imageCredit": {
+      "label": "",
+      "url": "",
+      "license": ""
+    },
+    "sources": [
+      {
+        "label": "Visit Yerevan: city chronology",
+        "url": "https://www.visityerevan.am/uobjects/details/5/en/"
+      },
+      {
+        "label": "Visit Yerevan: Erebuni foundation inscription",
+        "url": "https://www.visityerevan.am/places/details/191/en/"
+      }
+    ]
+  },
+  {
+    "id": "garni",
+    "title": "Garni: columns above a gorge",
+    "era": "Classical architecture",
+    "year": "Usually dated to the 1st century CE",
+    "summary": "A striking colonnaded monument introduces Armenia's pre-Christian architectural heritage.",
+    "story": "Garni's stone columns rise above the dramatic Azat River gorge. Usually dated to the first century CE, the monument shows how classical Mediterranean architectural ideas reached the Armenian kingdom. It sits within a fortress complex used by Armenian rulers. Its familiar appearance also tells a modern conservation story: the building collapsed in a seventeenth-century earthquake and was reconstructed in the twentieth century using surviving stonework. The structure is conventionally called a pagan temple, while details of its original function and attribution remain subjects of scholarly discussion.",
+    "fact": "The monument you see today combines ancient surviving stones with modern reconstruction.",
+    "image": "/assets/history/garni.webp",
+    "imageAlt": "The classical columns of Garni Temple in Armenia",
+    "imageCredit": {
+      "label": "Armenak Margarian · resized and converted to WebP",
+      "url": "https://commons.wikimedia.org/wiki/File:Garni_Temple_18-11-2010.jpg",
+      "license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "sources": [
+      {
+        "label": "Visit Armenia: Garni",
+        "url": "https://www.visitarmenia.travel/en/sights/7"
+      },
+      {
+        "label": "Garni Temple: construction and reconstruction references",
+        "url": "https://en.wikipedia.org/wiki/Garni_Temple"
+      }
+    ]
+  },
+  {
+    "id": "christianity",
+    "title": "An early Christian kingdom",
+    "era": "Faith and heritage",
+    "year": "Traditionally 301 CE",
+    "summary": "Armenia's adoption of Christianity as a state religion is traditionally dated to 301 CE.",
+    "story": "Armenia is widely recognised as the first kingdom to adopt Christianity as its state religion. Armenian tradition dates the change to 301 CE and connects it with King Tiridates III and Gregory the Illuminator. Historians debate the precise timing, so the traditional date should be distinguished from a universally settled chronology. Over the following centuries, churches, monasteries, sacred music and manuscript traditions became central to Armenian cultural life. The architecture you encounter across Armenia reflects many periods of building and rebuilding, rather than one single moment in 301.",
+    "fact": "The date 301 is a celebrated traditional date; the early fourth century is the wider historical setting.",
+    "image": "/assets/armenia-hero.webp",
+    "imageAlt": "Khor Virap Monastery with Mount Ararat in the background",
+    "imageCredit": {
+      "label": "Vyacheslav Argenberg",
+      "url": "https://commons.wikimedia.org/wiki/File:Mount_Ararat_and_Khor_Virap_Monastery,_Ararat_Plain,_Armenia.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "sources": [
+      {
+        "label": "Armenian Cultural Heritage Institute: early Christianity",
+        "url": "https://armenianculturalheritageinstitute.org/en/itineraries/discovering-armeniearly-christianity"
+      }
+    ]
+  },
+  {
+    "id": "alphabet",
+    "title": "Letters that shaped a culture",
+    "era": "Language and learning",
+    "year": "Around 405 CE",
+    "summary": "Mesrop Mashtots created the Armenian alphabet, opening a new chapter in writing and translation.",
+    "story": "Around 405 CE, the scholar and cleric Mesrop Mashtots created the Armenian alphabet. A writing system suited to Armenian helped make translation, teaching and literature flourish. The original alphabet had 36 letters; later additions explain why modern descriptions may give a different total. Armenian became the language of a rich manuscript culture, with beautifully decorated books and translations preserving knowledge across centuries. In Yerevan, the Matenadaran research institute and museum introduces visitors to this heritage. The letters themselves also appear in calligraphy, sculpture and contemporary art.",
+    "fact": "Ա is the first letter of the Armenian alphabet, pronounced roughly like 'a' in 'father'.",
+    "image": "",
+    "imageAlt": "The Armenian alphabet: Ա Բ Գ Դ Ե Զ Է Ը Թ",
+    "imageCredit": {
+      "label": "",
+      "url": "",
+      "license": ""
+    },
+    "sources": [
+      {
+        "label": "Visit Armenia: language and alphabet",
+        "url": "https://www.visitarmenia.travel/en/language"
+      },
+      {
+        "label": "Armenia Travel: Armenian calligraphy",
+        "url": "https://armenia.travel/articles/armenian-calligraphy/"
+      }
+    ]
+  },
+  {
+    "id": "geghard",
+    "title": "Geghard: architecture carved into rock",
+    "era": "Medieval craftsmanship",
+    "year": "Main complex: 13th century",
+    "summary": "Churches and tombs carved into cliffs make Geghard a remarkable UNESCO World Heritage site.",
+    "story": "At Geghard, a church can be both a building and part of a mountain. The monastery's medieval complex includes churches and tombs cut into living rock, surrounded by the cliffs of the upper Azat Valley. Its main architectural ensemble was completed in the thirteenth century, although the site's religious history is older. It also supported writing, learning and manuscript production. The name is connected with a spear relic traditionally associated with the Crucifixion; that association is religious tradition. UNESCO recognised the monastery and its setting as World Heritage in 2000.",
+    "fact": "Its earlier name, Ayrivank, means 'Monastery in the Cave'.",
+    "image": "/assets/history/geghard.webp",
+    "imageAlt": "Stone columns and carved interior architecture at Geghard Monastery",
+    "imageCredit": {
+      "label": "Vyacheslav Argenberg · resized and converted to WebP",
+      "url": "https://commons.wikimedia.org/wiki/File:Geghard_Monastery,_Gavit,_Columns_2,_Armenia.jpg",
+      "license": "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/"
+    },
+    "sources": [
+      {
+        "label": "UNESCO: Geghard and the Upper Azat Valley",
+        "url": "https://whc.unesco.org/en/list/960"
+      }
+    ]
+  },
+  {
+    "id": "tatev",
+    "title": "Tatev: a monastery of learning",
+    "era": "Medieval scholarship",
+    "year": "9th century onward",
+    "summary": "Above the Vorotan gorge, Tatev joined spiritual life with scholarship and the arts.",
+    "story": "Tatev's dramatic position above the Vorotan gorge is only part of its story. The monastery grew into a major religious and cultural centre in the Syunik region. Its main church of Saints Peter and Paul was built at the end of the ninth and beginning of the tenth centuries. Later, Tatev's university became an important place for teaching and intellectual life. Students studied subjects including philosophy, mathematics and languages. The complex reminds us that medieval monasteries could be places of research, bookmaking and education as well as worship.",
+    "fact": "Tatev's medieval university flourished in the fourteenth century.",
+    "image": "/assets/history/tatev.webp",
+    "imageAlt": "Tatev Monastery above the wooded Vorotan gorge",
+    "imageCredit": {
+      "label": "Alexander Naumov · resized and converted to WebP",
+      "url": "https://commons.wikimedia.org/wiki/File:Tatev_Monastery_from_a_distance.jpg",
+      "license": "CC BY 3.0 · https://creativecommons.org/licenses/by/3.0/"
+    },
+    "sources": [
+      {
+        "label": "Armenia Travel: Tatev Monastery",
+        "url": "https://armenia.travel/destination/tatev-monastery/"
+      },
+      {
+        "label": "Visit Armenia: Tatev main church",
+        "url": "https://visitarmenia.travel/en/sights/51"
+      }
+    ]
+  },
+  {
+    "id": "ararat",
+    "title": "Ararat: a mountain in the imagination",
+    "era": "Cultural landscape",
+    "year": "Across generations",
+    "summary": "Mount Ararat is an enduring Armenian cultural symbol and is geographically located in present-day Turkey.",
+    "story": "The snowy outline of Mount Ararat is one of the most familiar images in Armenian art and everyday life. Visible from parts of Armenia, it appears on the national coat of arms and inspires paintings, poetry and memories of home. The mountain itself lies in present-day Turkey, beyond Armenia's border. Biblical tradition connects the mountains of Ararat with Noah's Ark; this should be understood as a religious story, rather than archaeological proof of a landing on this particular summit. Its cultural importance reaches far beyond a map coordinate.",
+    "fact": "A cultural symbol can be deeply important to a country while lying outside its present borders.",
+    "image": "/assets/history/ararat.webp",
+    "imageAlt": "Mount Ararat viewed beyond Khor Virap Monastery from the Ararat plain in Armenia",
+    "imageCredit": {
+      "label": "Vyacheslav Argenberg · resized and converted to WebP",
+      "url": "https://commons.wikimedia.org/wiki/File:Mount_Ararat_and_Khor_Virap_Monastery_2,_Ararat_Plain,_Armenia.jpg",
+      "license": "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/"
+    },
+    "sources": [
+      {
+        "label": "Visit Armenia: geography and Ararat",
+        "url": "https://visitarmenia.travel/en/geography"
+      },
+      {
+        "label": "Armenia Travel: national symbols",
+        "url": "https://armenia.travel/articles/national-symbols-of-armenia/"
+      }
+    ]
+  },
+  {
+    "id": "sevan",
+    "title": "Lake Sevan: Armenia's blue horizon",
+    "era": "Natural and cultural heritage",
+    "year": "A living landscape",
+    "summary": "Armenia's largest lake sits around 1,900 metres above sea level.",
+    "story": "Armenia is landlocked, but Lake Sevan gives it an extraordinary blue horizon. This large high-altitude freshwater lake is surrounded by mountains and is central to the country's natural environment. On the Sevan peninsula, the churches of Sevanavank connect the lake with medieval Armenian heritage. The peninsula was once an island: twentieth-century reductions in water level changed the shoreline. Sevan is therefore both a beloved place for recreation and a reminder that landscapes can be vulnerable. Its water, wildlife and cultural sites deserve care alongside admiration.",
+    "fact": "The Sevanavank monastery was once separated from the shore on an island.",
+    "image": "/assets/history/sevan.webp",
+    "imageAlt": "Blue Lake Sevan and Sevanavank Monastery on its peninsula",
+    "imageCredit": {
+      "label": "a-rubenyan · resized and converted to WebP",
+      "url": "https://commons.wikimedia.org/wiki/File:Lake_Sevan_with_Sevanavank.jpg",
+      "license": "CC BY 3.0 · https://creativecommons.org/licenses/by/3.0/"
+    },
+    "sources": [
+      {
+        "label": "Sevan National Park: Lake Sevan",
+        "url": "https://sevan-park.am/en/2019/03/29/lake-sevan/"
+      },
+      {
+        "label": "Armenia Travel: Lake Sevan",
+        "url": "https://armenia.travel/articles/what-to-do-in-lake-sevan/"
+      }
+    ]
+  },
+  {
+    "id": "duduk",
+    "title": "The warm voice of the duduk",
+    "era": "Living musical heritage",
+    "year": "UNESCO inscription: 2008",
+    "summary": "A double-reed instrument, often made from apricot wood, carries a distinctive Armenian musical tradition.",
+    "story": "The duduk's warm, gently nasal sound can feel close to a human voice. In Armenian practice, the instrument commonly has an apricot-wood body and a large double reed. It accompanies songs, dances and occasions including weddings and funerals. Two players often work together: one sustains a drone while the other shapes the melody. Related reed instruments are also played in neighbouring cultures. UNESCO inscribed Armenia's duduk and its music on the Representative List of Intangible Cultural Heritage in 2008, recognising a living tradition carried by musicians and makers.",
+    "fact": "A sustained drone can provide a steady background beneath an expressive melody.",
+    "image": "",
+    "imageAlt": "Duduk and Armenian musical traditions",
+    "imageCredit": {
+      "label": "",
+      "url": "",
+      "license": ""
+    },
+    "sources": [
+      {
+        "label": "UNESCO: duduk and its music",
+        "url": "https://ich.unesco.org/en/RL/duduk-and-its-music-00092"
+      }
+    ]
+  },
+  {
+    "id": "wings-of-tatev",
+    "title": "Wings of Tatev: a journey above the gorge",
+    "era": "Modern engineering",
+    "year": "2010",
+    "summary": "A 5,752-metre aerial tramway links Halidzor with the historic Tatev area.",
+    "story": "A modern engineering achievement makes the approach to Tatev an experience of its own. Wings of Tatev carries passengers across the Vorotan gorge between Halidzor and the Tatev monastery area. Guinness World Records lists the 5,752-metre installation under the precise title 'longest non-stop double-track cable car', achieved on 16 October 2010. This refers to a specific aerial-tramway category; it should not be expanded to every kind of cable car. Two cabins travel in opposite directions, giving visitors a striking view of the landscape surrounding the monastery.",
+    "fact": "The Guinness record is for the non-stop double-track category, not every cable transport system.",
+    "image": "/assets/history/tatev.webp",
+    "imageAlt": "Tatev Monastery and the gorge landscape reached by Wings of Tatev",
+    "imageCredit": {
+      "label": "Alexander Naumov · landscape view, resized and converted to WebP",
+      "url": "https://commons.wikimedia.org/wiki/File:Tatev_Monastery_from_a_distance.jpg",
+      "license": "CC BY 3.0 · https://creativecommons.org/licenses/by/3.0/"
+    },
+    "sources": [
+      {
+        "label": "Guinness World Records: longest non-stop double-track cable car",
+        "url": "https://www.guinnessworldrecords.com/world-records/longest-non-stop-double-track-cable-car"
+      }
+    ]
+  }
+]

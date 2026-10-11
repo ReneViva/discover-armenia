@@ -1,0 +1,155 @@
+[
+  {
+    "id": "kochari",
+    "name": "Kochari",
+    "armenian": "Քոչարի",
+    "status": "Verified tradition",
+    "summary": "Join the line: a living dance of community and shared rhythm.",
+    "story": "Kochari brings people together at celebrations, weddings and family gatherings across Armenia. Dancers move together in a linked line, learning from the leader and from one another. UNESCO added Armenia’s Kochari tradition to its Representative List of the Intangible Cultural Heritage of Humanity in 2017. Its importance lies in the community it creates as much as in the movement: people of different ages and backgrounds can take part. There are regional variations, so there is no single sequence that represents every Kochari. Watch the demonstration, feel the rhythm, and let an experienced dancer guide your first steps.",
+    "steps": [
+      {
+        "label": "Get together",
+        "instruction": "Stand in a line facing the centre. Hold hands loosely at a comfortable low level. Keep your knees soft and your upper body upright."
+      },
+      {
+        "label": "1 & 2 & · right, together",
+        "instruction": "Step right with your right foot, adding two gentle knee pulses. Place your left foot beside it with two more small pulses."
+      },
+      {
+        "label": "3 & 4 & · right, touch",
+        "instruction": "Step right again and gently pulse. Touch the left foot diagonally to the left without transferring your weight; keep the pulse small."
+      },
+      {
+        "label": "5 · dip; 6 & · pulse",
+        "instruction": "Place both feet down, left foot a little forward to the left. Bend both knees gently, then make two small pulses. This beginner version leaves out the jump."
+      },
+      {
+        "label": "7 · back; 8 · lift",
+        "instruction": "Take a small step back on the left foot. Gently pulse on it while lifting the right foot a little. Repeat from the right step at a slow pace."
+      }
+    ],
+    "teachingNote": "A simplified, low-impact introduction adapted from Tineke van Geel’s published Van and Taron Kochari teaching notes. Jumps and strong bounces are reduced. This is one teaching variation, not the complete choreography or a universal Kochari. The UNESCO film shows the wider living tradition. Follow the event dance leader for their chosen version.",
+    "video": {
+      "id": "nvSVXd1lI5c",
+      "title": "Kochari, traditional group dance — UNESCO",
+      "url": "https://www.youtube.com/watch?v=nvSVXd1lI5c"
+    },
+    "sources": [
+      {
+        "label": "UNESCO: Kochari, traditional group dance",
+        "url": "https://ich.unesco.org/en/RL/kochari-traditional-group-dance-01295"
+      },
+      {
+        "label": "Folk Dance Federation: teaching notes, pages 45–46",
+        "url": "https://socalfolkdance.org/syllabi/syllabus_hess_kramer_2008.pdf"
+      },
+      {
+        "label": "Karin: a distinct Karno Kochari variation",
+        "url": "https://karinfolk.am/dance/karno-qochari/"
+      }
+    ],
+    "needsConfirmation": false
+  },
+  {
+    "id": "kham-khama",
+    "name": "Kham Khama / Khumkhuma",
+    "armenian": "Խամ խամա / Խամխամա",
+    "status": "Name verified · origins need care",
+    "summary": "A playful linked-line dance with a remarkable diaspora journey.",
+    "story": "The requested “Kham Khamam” is most likely Kham Khama, also written Khumkhuma. Tom Bozigian’s own teaching notes describe learning it in the early 1960s from Jimmy Haboian, who had learned it from Detroit’s Kurdish community. It later became part of Armenian diaspora dance gatherings and is performed in Armenia, including by Karin. This is a useful example of traditions travelling between communities rather than having one simple, exclusive origin. The sung refrain and the group’s forward-and-back movement give it a playful character. Different teachers use different styling, so the version you learn should be identified clearly.",
+    "steps": [
+      {
+        "label": "Set the line",
+        "instruction": "Stand beside the others in an open line, facing the centre. Leave room behind you. Begin slowly; the leader is at the right end."
+      },
+      {
+        "label": "Bar 1 · quick, quick, slow",
+        "instruction": "Face slightly right and travel along the line: right foot, close left foot, right foot. Say “right-left-right” to feel the triple step."
+      },
+      {
+        "label": "Bar 2 · cross, step",
+        "instruction": "Cross your left foot in front of the right with a gentle knee bend, then step forward along the line on your right foot."
+      },
+      {
+        "label": "Bar 3 · cross and pulse",
+        "instruction": "Cross the left foot over again. Make two gentle pulses on the left while lifting the right heel behind you. Keep the lift low."
+      },
+      {
+        "label": "Bar 4 · in and touch",
+        "instruction": "Step toward the centre on the right foot. Bring the left beside it and touch or lightly stamp, leaving your weight on the right."
+      },
+      {
+        "label": "Bars 5–8 · travel back",
+        "instruction": "Step back left, then right, alternating for seven steps while gently lifting the free foot forward. Finish by touching the right beside the left, with weight on the left. Restart with right-left-right."
+      }
+    ],
+    "teachingNote": "Adapted from Tom Bozigian’s 2008 Khumkhuma notes. For this beginner variation, large steps, kicks and strong bounces are reduced. The linked video is Bozigian’s own demonstration, not a generic wedding dance. The precise requested spelling “Kham Khamam” still needs the host’s confirmation; regional-origin claims are deliberately left open.",
+    "video": {
+      "id": "r1p89I54CFM",
+      "title": "Khumkhuma — Tom Bozigian demonstration",
+      "url": "https://www.youtube.com/watch?v=r1p89I54CFM"
+    },
+    "sources": [
+      {
+        "label": "Tom Bozigian: original Khumkhuma teaching notes",
+        "url": "https://singularproductions.com/wp-content/uploads/2019/07/Khumkhuma-Teen-SSIFDF-2008.pdf"
+      },
+      {
+        "label": "Karin performance: Խամխամա",
+        "url": "https://www.youtube.com/watch?v=I27y3qXkBN8"
+      },
+      {
+        "label": "Fort Collins Folk Dance: variants and transmission",
+        "url": "https://www.fortcollinsfolkdance.org/dances/pages/armenia/khumkhuma-teen/"
+      }
+    ],
+    "needsConfirmation": true
+  },
+  {
+    "id": "tsaghkadzori",
+    "name": "Tsaghkadzori / Tsakhkadzori",
+    "armenian": "Ծաղկաձորի",
+    "status": "Name verified · teaching context to confirm",
+    "summary": "Watch a verified Karin performance and learn with the evening’s dance leader.",
+    "story": "Tsaghkadzori is a documented name in Armenian dance repertoire; Tsakhkadzori is another common Latin spelling of Ծաղկաձորի. The linked recording identifies Karin performing this dance outside Yerevan’s Erebuni Museum in June 2011. It offers a chance to see traditional dance in a public cultural setting, rather than only on a theatre stage. Karin’s work connects research, performance and community teaching. Watch how the group keeps its movement coordinated and listen for the musical phrases. The dance’s precise regional history, ritual interpretation and the version intended for tonight remain for the host or an experienced teacher to confirm.",
+    "steps": [
+      {
+        "label": "Watch the whole phrase",
+        "instruction": "Play the verified Karin demonstration once. Observe the direction of travel and how the group stays together."
+      },
+      {
+        "label": "Find the pulse",
+        "instruction": "Listen again and tap the beat softly. Notice where the dancers repeat a movement phrase."
+      },
+      {
+        "label": "Learn beside the leader",
+        "instruction": "Ask the evening’s dance leader to show the chosen version slowly. First practise the foot pattern without joining hands."
+      },
+      {
+        "label": "Join when comfortable",
+        "instruction": "Join the line when you recognise the repeated phrase. Keep steps small and follow your neighbours and leader."
+      }
+    ],
+    "teachingNote": "Watch-and-practise guidance only: these cards do not claim to describe authentic Tsaghkadzori choreography. The name and relevant performance are verified, while detailed steps and regional or ritual explanations await confirmation from the host. Edit this entry once the intended variation is supplied.",
+    "video": {
+      "id": "xw06tz-dbR0",
+      "title": "Karin — Tsakhkadzori / Ծաղկաձորի",
+      "url": "https://www.youtube.com/watch?v=xw06tz-dbR0"
+    },
+    "sources": [
+      {
+        "label": "Karin performance at Erebuni Museum, 12 June 2011",
+        "url": "https://www.youtube.com/watch?v=xw06tz-dbR0"
+      },
+      {
+        "label": "Karin: cultural research and community teaching",
+        "url": "https://karinfolk.am/en/"
+      },
+      {
+        "label": "ERGIR: documented Ծաղկաձորի dance tune",
+        "url": "https://ergir.am/par/"
+      }
+    ],
+    "needsConfirmation": true
+  }
+]

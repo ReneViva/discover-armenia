@@ -1,0 +1,194 @@
+[
+  {
+    "id": "capital",
+    "question": "What is Armenia's capital city?",
+    "options": [
+      "Helsinki",
+      "Tbilisi",
+      "Yerevan",
+      "Sofia"
+    ],
+    "answer": 2,
+    "explanation": "Yerevan is Armenia's capital. The ancient Erebuni fortress lies within today's city.",
+    "source": {
+      "label": "Armenia Travel: official tourism guide",
+      "url": "https://armenia.travel/"
+    }
+  },
+  {
+    "id": "tatev-country",
+    "question": "In which country is Wings of Tatev, Guinness-listed for the longest non-stop double-track cable car?",
+    "options": [
+      "Finland",
+      "Armenia",
+      "Portugal",
+      "Japan"
+    ],
+    "answer": 1,
+    "explanation": "Wings of Tatev is in Armenia. Its 5,752-metre Guinness record is for the non-stop double-track cable-car category.",
+    "source": {
+      "label": "Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/world-records/longest-non-stop-double-track-cable-car"
+    }
+  },
+  {
+    "id": "ghapama",
+    "question": "Which Armenian dish is a pumpkin stuffed with rice, dried fruit and nuts?",
+    "options": [
+      "Khash",
+      "Spas",
+      "Ghapama",
+      "Lavash"
+    ],
+    "answer": 2,
+    "explanation": "Ghapama is baked inside a pumpkin. The much-loved dish even has a song dedicated to it.",
+    "source": {
+      "label": "Armenia Travel: winter foods",
+      "url": "https://armenia.travel/articles/mouthwatering-foods-to-warm-you-up-in-winter/"
+    }
+  },
+  {
+    "id": "cher-heritage",
+    "question": "Which internationally known singer has documented Armenian ancestry through her father?",
+    "options": [
+      "Adele",
+      "Shakira",
+      "Cher",
+      "Céline Dion"
+    ],
+    "answer": 2,
+    "explanation": "Cher has spoken about her Armenian father and her connection with Armenia. Armenian heritage can coexist with mixed ancestry and American nationality.",
+    "source": {
+      "label": "CNN interview transcript with Cher",
+      "url": "https://transcripts.cnn.com/show/ampr/date/2021-07-15/segment/01"
+    }
+  },
+  {
+    "id": "alphabet-creator",
+    "question": "Who created the Armenian alphabet around 405 CE?",
+    "options": [
+      "Leonardo da Vinci",
+      "William Shakespeare",
+      "Isaac Newton",
+      "Mesrop Mashtots"
+    ],
+    "answer": 3,
+    "explanation": "Mesrop Mashtots created the Armenian alphabet around 405 CE, helping Armenian writing, translation and learning flourish.",
+    "source": {
+      "label": "Visit Armenia: language",
+      "url": "https://www.visitarmenia.travel/en/language"
+    }
+  },
+  {
+    "id": "kochari",
+    "question": "What is Kochari, inscribed by UNESCO in 2017?",
+    "options": [
+      "A lake",
+      "A traditional group dance",
+      "A pastry",
+      "An alphabet letter"
+    ],
+    "answer": 1,
+    "explanation": "Kochari is a traditional group dance shared at celebrations and gatherings. UNESCO inscribed Armenia's tradition in 2017.",
+    "source": {
+      "label": "UNESCO: Kochari",
+      "url": "https://ich.unesco.org/en/RL/kochari-traditional-group-dance-01295"
+    }
+  },
+  {
+    "id": "sevan",
+    "question": "Which is Armenia's largest lake?",
+    "options": [
+      "Lake Geneva",
+      "Lake Sevan",
+      "Lake Como",
+      "Lake Saimaa"
+    ],
+    "answer": 1,
+    "explanation": "Lake Sevan is Armenia's largest lake, a freshwater landscape around 1,900 metres above sea level.",
+    "source": {
+      "label": "Armenia Travel: Lake Sevan",
+      "url": "https://armenia.travel/articles/what-to-do-in-lake-sevan/"
+    }
+  },
+  {
+    "id": "areni-cave",
+    "question": "Where was one of the world's oldest known winery installations discovered?",
+    "options": [
+      "A railway station in Helsinki",
+      "A castle in Scotland",
+      "A palace in Madrid",
+      "Areni-1 Cave, Armenia"
+    ],
+    "answer": 3,
+    "explanation": "Areni-1 in Armenia preserved wine-making equipment and grape remains from around 4100 BCE. This does not establish where all wine originated.",
+    "source": {
+      "label": "UCLA research announcement",
+      "url": "https://www.eurekalert.org/news-releases/471487"
+    }
+  },
+  {
+    "id": "aznavour-heritage",
+    "question": "French singer Charles Aznavour had which documented family background?",
+    "options": [
+      "Both were Armenian immigrants",
+      "Both were born in Finland",
+      "Neither had any link to Armenia",
+      "His family history is known only from his stage name"
+    ],
+    "answer": 0,
+    "explanation": "Aznavour was born in Paris to Armenian immigrant parents, Misha and Knar. Both France and Armenia were important in his life.",
+    "source": {
+      "label": "Government of Armenia: Aznavour centenary",
+      "url": "https://www.gov.am/en/news/item/10512/"
+    }
+  },
+  {
+    "id": "ararat-location",
+    "question": "Mount Ararat is an Armenian cultural symbol. In which country is it located today?",
+    "options": [
+      "Finland",
+      "Iceland",
+      "Egypt",
+      "Turkey"
+    ],
+    "answer": 3,
+    "explanation": "Ararat is in present-day Turkey. It is visible from parts of Armenia and appears on Armenia's coat of arms.",
+    "source": {
+      "label": "Visit Armenia: geography",
+      "url": "https://visitarmenia.travel/en/geography"
+    }
+  },
+  {
+    "id": "christianity-date",
+    "question": "Which year traditionally marks Armenia's adoption of Christianity as a state religion?",
+    "options": [
+      "301 CE",
+      "1492 CE",
+      "1918 CE",
+      "2000 CE"
+    ],
+    "answer": 0,
+    "explanation": "Armenian tradition gives 301 CE. Historians debate the precise timing, so this is presented as the traditional date.",
+    "source": {
+      "label": "Armenian Cultural Heritage Institute",
+      "url": "https://armenianculturalheritageinstitute.org/en/itineraries/discovering-armeniearly-christianity"
+    }
+  },
+  {
+    "id": "duduk-wood",
+    "question": "Which wood is commonly used for the body of the Armenian duduk?",
+    "options": [
+      "Apricot wood",
+      "Bamboo only",
+      "Plastic only",
+      "Palm wood only"
+    ],
+    "answer": 0,
+    "explanation": "Apricot wood gives the duduk its body. A large double reed helps create the instrument's warm, expressive sound.",
+    "source": {
+      "label": "UNESCO: duduk and its music",
+      "url": "https://ich.unesco.org/en/RL/duduk-and-its-music-00092"
+    }
+  }
+]

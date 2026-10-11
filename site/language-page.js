@@ -1,0 +1,15 @@
+export function renderLanguage(words,{category='All',englishFirst=false,escape:e,heading,sourceLinks}){
+  const categories=['All','Greetings','Everyday','At the table'];
+  const visible=words.filter(word=>category==='All'||word.category===category);
+  const sources=[...new Map(words.flatMap(word=>word.sources||[]).map(source=>[source.url,source])).values()];
+  return heading('06 · A FEW WORDS GO A LONG WAY',"Let’s Learn<br><em>Armenian.</em>",'Say hello, thank someone, and share a toast. A few simple words can turn a new face into a friend.','globe')+`
+    <section class="wrap language-page">
+      <div class="language-intro"><span class="language-hello" lang="hy">Բարև</span><div><span class="eyebrow">START WITH HELLO</span><h2>Barev <small>· B-A-R-E-V</small></h2><p>It means “Hello.” Try saying <strong>bah-REV</strong> to someone tonight.</p></div></div>
+      <div class="language-controls"><div class="filter-tabs" aria-label="Filter Armenian phrases">${categories.map(value=>`<button class="pill ${category===value?'active':''}" aria-pressed="${category===value}" data-action="language-filter" data-category="${e(value)}">${e(value)}</button>`).join('')}</div><div class="language-direction" role="group" aria-label="Choose learning direction"><button class="pill ${!englishFirst?'active':''}" aria-pressed="${!englishFirst}" data-action="language-direction" data-direction="armenian">Armenian → English</button><button class="pill ${englishFirst?'active':''}" aria-pressed="${englishFirst}" data-action="language-direction" data-direction="english">English → Armenian</button></div></div>
+      <p class="gallery-count">${visible.length} words & phrases · Read, say it aloud, then try it with a friend</p>
+      <div class="word-grid">${visible.map(word=>`<article class="word-card"><span class="eyebrow">${e(word.category)}</span>${englishFirst?`<h2 class="word-english-first">${e(word.english)}</h2><p class="word-armenian-secondary" lang="hy">${e(word.armenian)}</p>`:`<h2 class="word-armenian" lang="hy">${e(word.armenian)}</h2><p class="word-meaning">${e(word.english)}</p>`}<div class="word-pronunciation"><span class="word-transliteration">${e(word.transliteration)}</span><span class="word-letters" aria-label="Spelled in Latin letters">${e(word.transliteration.toUpperCase().split(' ').map(part=>[...part].join('-')).join(' · '))}</span><p><span>Say it:</span> ${e(word.pronunciation)}</p></div>${word.note?`<p class="word-note">${e(word.note)}</p>`:''}</article>`).join('')}</div>
+      <aside class="notice"><p>These are friendly guides to Eastern Armenian, commonly spoken in Armenia. Pronunciation is approximate; capitals mark the stressed syllable. Ask an Armenian speaker to say the words with you.</p></aside>
+      ${sourceLinks(sources)}
+      <div class="language-invitation"><span class="eyebrow">YOUR MISSION TONIGHT</span><h2>Three words. One new friend.</h2><p>Start with <strong>Barev</strong> (hello), try <strong>Inchpes es?</strong> (how are you?), and finish with <strong>Shnorhakalutyun</strong> (thank you).</p><a class="button button-primary" href="/food">Practise around the table →</a></div>
+    </section>`;
+}
