@@ -32,7 +32,7 @@ Photograph credits, original file pages, licence URLs and resize disclosures app
 
 The quiz has exactly 12 balanced questions. It saves progress locally and offers an optional selfie after completion. `participant-gallery.js` handles capture/selection, a private preview, image resizing and metadata removal, explicit public-sharing consent, and the shared `/participants` gallery. The gallery reads from the configured shared API; browser storage is used only for participants’ own removal tokens.
 
-`content/gallery-config.json` has `apiBase: null` while the shared upload service is not deployed. Photo publishing is disabled in this state. The R2-only backend implementation and its tests are in `backend/`. Follow `backend/README.md` to deploy it without replacing the existing static site. Set the actual verified HTTPS API origin in the config, rebuild, and test an upload from a different device/browser before claiming the public gallery works. No server secret belongs in client-side config.
+`content/gallery-config.json` points to the verified shared service at https://discover-armenia-selfie-gallery.woollytrail2.chatgpt.site. Public photo publishing is enabled after explicit consent. Live R2 upload, shared listing, image reads, removal-token validation and deletion were verified; the temporary test photo was removed. The R2-only API implementation and tests are in `backend/`. The service runs separately from the static website, without a database or participant accounts. No server secret belongs in client-side config.
 
 ## Publishing
 
@@ -52,4 +52,8 @@ The base applies to production output only. Source files and the ordinary `npm r
 
 When present, the selected Sites project is recorded in `.openai/hosting.json`. Run the ordinary root build, then use the Sites source-workflow helper to push/package this checkout, save and deploy a version. Never store repository credentials in files or command arguments. Public access was explicitly requested for this event.
 
-Deliverables and the final verified URL are stored in the parent `deliverables/` directory.
+Public website: https://reneviva.github.io/discover-armenia/
+
+Repository: https://github.com/ReneViva/discover-armenia
+
+QR images, final verification and deployment records are stored in the local parent `deliverables/` directory.

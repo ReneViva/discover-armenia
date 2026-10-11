@@ -118,8 +118,8 @@ def poster_html(url: str, png_name: str) -> str:
     <div class="qr-frame"><img src="__PNG__" alt="QR code linking to the Discover Armenia website"></div>
     <p class="instructions">Open your phone camera, scan, and explore.</p>
     <a class="url" href="__URL__">__URL__</a>
-    <div class="experiences" aria-label="Five cultural experiences">
-      <span>Dance</span><span>Food</span><span>History</span><span>Music</span><span>The Armenian Challenge</span>
+    <div class="experiences" aria-label="Six cultural experiences">
+      <span>Dance</span><span>Food</span><span>History</span><span>Music</span><span>Learn Armenian</span><span>The Armenian Challenge</span>
     </div>
     <p class="footer">Discover Armenia<br>Rural Youth Europe Autumn Seminar 2026</p>
     <div class="bottom-line" aria-hidden="true"></div>
